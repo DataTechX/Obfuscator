@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "javascript-obfuscator": "^4.0.0"
+  }
+}
