@@ -4,3 +4,15 @@
 
 # ตัวอย่าง
 ![XX](https://cdn.discordapp.com/attachments/901560603104124969/988870023022018681/Screenshot_2022-06-21_111532.png)
+
+
+พิมพ์คอนโซล `npm install` เพื่อติดตั้งการพึ่งพาทั้งหมด
+
+เลือกการรันที่คุณต้องการ
+- ด้วย Node.js `npm index.js`
+
+
+
+การใช้งาน
+- node index.js
+- path: main.js
